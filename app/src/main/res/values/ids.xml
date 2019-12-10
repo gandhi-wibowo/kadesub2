@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="container" type="id" />
+    <item name="bfIdtbl" type="id" />
+    <item name="bfVp" type="id" />
+    <item name="nmFrv" type="id" />
+    <item name="ivHome" type="id" />
+    <item name="ivAway" type="id" />
+    <item name="tvHomeScore" type="id" />
+    <item name="tvAwayScore" type="id" />
+    <item name="tvHomeTeamName" type="id" />
+    <item name="tvAwayTeamName" type="id" />
+    <item name="tvEventName" type="id" />
+    <item name="tvLigaName" type="id" />
+    <item name="pmFrv" type="id" />
+    <item name="lgVp" type="id" />
+</resources>

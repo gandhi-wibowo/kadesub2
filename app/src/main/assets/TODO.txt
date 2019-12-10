@@ -1,0 +1,27 @@
+/*
+* TODO :
+*  Menampilkan informasi yang lengkap pada halaman detail liga.
+*  Menggunakan Fragment untuk menampung halaman Next Match dan Previous Match.
+*  Menampilkan informasi yang lengkap pada halaman detail pertandingan.
+*  Menampilkan indikator loading ketika aplikasi sedang memuat data.
+*  Menggunakan pattern seperti MVP, MVVM, Architecture Component atau yang lainnya.
+*  Menampilkan waktu pertandingan dalam format GMT +7.
+*  Menggunakan SearchView pada penerapan fitur pencarian.
+*  Menampilkan informasi ke pengguna ketika hasil pencarian tidak ditemukan.
+*  Menuliskan kode dengan bersih.
+*  : Itu rolenya
+*  Lalu bagaiamana penyelesaiannya ?
+*  1. ayo bkin layoutnya dlu
+*  : ada 4 layout
+*  : kita hanya butuh 1 activity
+*  : banyak fragment
+*  : 1. fragment yang menampung (pertandingan terakhir, pertandingan mendatang)
+*  : 2. fragment pertandingan terakhir
+*  : 3. fragment pertandingan mendatang
+*  : 4. framgnet detail pertandingan
+*  : 5. frament pencarian pertandingan
+*
+* Yeay, anggap aja semua datanya udah di dapat.
+* tinggal di tampilin aja.nexmatch ke nextmact
+* prev match, ke prev
+* */
